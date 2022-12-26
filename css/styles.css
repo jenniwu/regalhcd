@@ -11477,9 +11477,8 @@ body {
   background-color: #B3823E;
 }
 #mainNav .navbar-logo {
-  max-height: 20px;
-  width: auto;
-  padding-right: 5px;
+  max-height: 2rem;
+  vertical-align: text-bottom;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
